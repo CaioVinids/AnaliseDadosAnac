@@ -73,6 +73,5 @@ Este projeto foi desenvolvido como parte da atividade A3 da faculdade, com o obj
 
 ## 🖼️ Preview do Dashboard
 
-Exemplo:
-![Dashboard](docs/dashboard.png)
+![Dashboard](ProjetoA3/docs/dashboard.png)
 
