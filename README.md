@@ -54,9 +54,9 @@ Foram desenvolvidas algumas medidas em DAX para cálculo dos principais indicado
 
 ## 📁 Estrutura do Projeto
 
-data/ → Bases de dados em Excel
-powerbi/ → Arquivo do dashboard em Power BI (.pbix)
-docs/ → Documentação e imagens do projeto
+- data/ → Bases de dados em Excel
+- powerbi/ → Arquivo do dashboard em Power BI (.pbix)
+- docs/ → Documentação e imagens do projeto
 
 ---
 
