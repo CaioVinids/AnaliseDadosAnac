@@ -73,8 +73,6 @@ Este projeto foi desenvolvido como parte da atividade A3 da faculdade, com o obj
 
 ## 🖼️ Preview do Dashboard
 
-> Adicione aqui uma imagem do dashboard na pasta `docs` e referencie no GitHub.
-
 Exemplo:
 ![Dashboard](docs/dashboard.png)
 
