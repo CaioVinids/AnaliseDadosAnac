@@ -43,9 +43,10 @@ Como esses indicadores variam por período e empresa?
 O dashboard apresenta os seguintes indicadores:
 
 - 💰 Receita Total Passageiro (RPK)
-- 💺 Assento Total Disponível (ASK)
+- 💺 Assentos Totais Disponíveis (ASK)
 - 📊 Taxa de Ocupação
 - 👥 Total de Passageiros Transportados
+- ⏱ Percentual de Atrasos acima de 30 minutos
 
 ---
 
@@ -54,11 +55,11 @@ O dashboard apresenta os seguintes indicadores:
 - Ranking de empresas por potencial de receita
 - Top 10 aeroportos com maior geração de demanda
 - Evolução temporal da demanda (RPK) vs oferta (ASK)
-- Volume de operações vs taxa de atrasos superiores a 30 minutos
-- Filtros dinâmicos por:
+- Relação entre volume de operações e atrasos
+- Análises dinâmicas com filtros por:
   - Ano
   - Mês
-  - Empresa
+  - Companhia aérea
   - Nacionalidade da empresa
   - Aeroporto de origem e destino
 
@@ -66,7 +67,7 @@ O dashboard apresenta os seguintes indicadores:
 
 ## 🧮 Métricas Criadas em DAX
 
-Foram desenvolvidas algumas medidas em DAX para cálculo dos principais indicadores, incluindo:
+Foram desenvolvidas medidas em DAX para cálculo dos principais indicadores, incluindo:
 
 - Receita Total Passageiro (RPK)
 - Assentos Totais Disponíveis (ASK)
@@ -84,14 +85,9 @@ Foram desenvolvidas algumas medidas em DAX para cálculo dos principais indicado
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 📌 Contexto
 
-Este projeto foi desenvolvido como parte da atividade A3 da faculdade, com o objetivo de aplicar conceitos de:
-
-- Análise de dados
-- Modelagem de dados
-- Criação de métricas em DAX
-- Visualização de dados e storytelling
+Projeto desenvolvido no contexto acadêmico, com foco na aplicação prática de conceitos de Análise de Dados, modelagem, DAX e visualização, simulando um cenário real de análise gerencial no setor aéreo.
 
 ---
 
