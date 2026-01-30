@@ -1,8 +1,8 @@
 # 📊 Análise de Dados da ANAC — Projeto A3
 
-Este projeto consiste em uma análise de dados do setor aéreo brasileiro utilizando dados da ANAC, com foco em indicadores de demanda, oferta, receita, ocupação e desempenho operacional.
+Este projeto apresenta uma análise de dados do setor aéreo brasileiro utilizando bases públicas da ANAC, com foco em demanda, oferta, receita, ocupação e desempenho operacional das companhias aéreas.
 
-O objetivo é transformar dados brutos em informações gerenciais por meio de modelagem, criação de métricas em DAX e construção de um dashboard interativo no Power BI.
+O trabalho envolve tratamento e modelagem dos dados, criação de métricas em DAX e desenvolvimento de um dashboard interativo no Power BI.
 
 ---
 
