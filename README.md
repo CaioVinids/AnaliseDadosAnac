@@ -6,6 +6,30 @@ O trabalho envolve tratamento e modelagem dos dados, criação de métricas em D
 
 ---
 
+## 🎯 Objetivo da Análise
+
+- Transformar dados brutos do setor aéreo em informações estratégicas, permitindo:
+- Avaliar o desempenho das companhias aéreas
+- Comparar demanda versus oferta ao longo do tempo
+- Identificar aeroportos e empresas com maior potencial de receita
+- Analisar impactos operacionais, como atrasos nos voos
+
+---
+
+❓ Perguntas de Negócio Respondidas
+
+Como a demanda (RPK) evolui em relação à oferta (ASK)?
+
+Quais companhias apresentam maior potencial de receita?
+
+Quais aeroportos concentram maior geração de demanda?
+
+Existe relação entre volume de operações e atrasos superiores a 30 minutos?
+
+Como esses indicadores variam por período e empresa?
+
+---
+
 ## 🛠️ Ferramentas Utilizadas
 
 - Power BI
