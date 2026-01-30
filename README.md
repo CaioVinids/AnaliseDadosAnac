@@ -9,10 +9,10 @@ O trabalho envolve tratamento e modelagem dos dados, criação de métricas em D
 ## 🎯 Objetivo da Análise
 
 - Transformar dados brutos do setor aéreo em informações estratégicas, permitindo:
-- Avaliar o desempenho das companhias aéreas
-- Comparar demanda versus oferta ao longo do tempo
-- Identificar aeroportos e empresas com maior potencial de receita
-- Analisar impactos operacionais, como atrasos nos voos
+  - Avaliar o desempenho das companhias aéreas
+  - Comparar demanda versus oferta ao longo do tempo
+  - Identificar aeroportos e empresas com maior potencial de receita
+  - Analisar impactos operacionais, como atrasos nos voos
 
 ---
 
