@@ -103,7 +103,7 @@ Foram desenvolvidas medidas em DAX para cálculo dos principais indicadores, inc
 
 ## 📌 Contexto
 
-Projeto desenvolvido no contexto acadêmico do projeto A3, com foco na aplicação prática de conceitos de Análise de Dados, modelagem, DAX e visualização, simulando um cenário real de análise gerencial no setor aéreo.
+Projeto desenvolvido no contexto acadêmico, com foco na aplicação prática de conceitos de Análise de Dados, modelagem, DAX e visualização, simulando um cenário real de análise gerencial no setor aéreo.
 
 ---
 
