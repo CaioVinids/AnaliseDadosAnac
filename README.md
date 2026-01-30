@@ -30,19 +30,19 @@ Como esses indicadores variam por período e empresa?
 
 ---
 
-🔍 Principais Insights
+## 🔍 Principais Insights
 
-A taxa média de ocupação de 83,85% indica um bom aproveitamento da capacidade ofertada, porém a análise temporal mostra que esse desempenho varia ao longo do tempo conforme o equilíbrio entre demanda (RPK) e oferta (ASK).
+- A taxa média de ocupação de 83,85% indica um bom aproveitamento da capacidade ofertada, porém a análise temporal mostra que esse desempenho varia ao longo do tempo conforme o equilíbrio entre demanda (RPK) e oferta (ASK).
 
-A evolução histórica evidencia que o crescimento da demanda nem sempre acompanha a expansão da oferta, o que pode pressionar a taxa de ocupação em determinados períodos.
+- A evolução histórica evidencia que o crescimento da demanda nem sempre acompanha a expansão da oferta, o que pode pressionar a taxa de ocupação em determinados períodos.
 
-O ranking de potencial de receita mostra alta concentração em poucas companhias aéreas, indicando que uma parcela reduzida do mercado é responsável pela maior parte da geração de receita.
+- O ranking de potencial de receita mostra alta concentração em poucas companhias aéreas, indicando que uma parcela reduzida do mercado é responsável pela maior parte da geração de receita.
 
-Os aeroportos de Guarulhos, Rio de Janeiro e Brasília concentram os maiores volumes de demanda, reforçando seu papel estratégico na malha aérea brasileira.
+- Os aeroportos de Guarulhos, Rio de Janeiro e Brasília concentram os maiores volumes de demanda, reforçando seu papel estratégico na malha aérea brasileira.
 
-Observa-se que empresas com maior volume de operações tendem a apresentar maior incidência de atrasos superiores a 30 minutos, sugerindo desafios operacionais associados à alta complexidade logística.
+- Observa-se que empresas com maior volume de operações tendem a apresentar maior incidência de atrasos superiores a 30 minutos, sugerindo desafios operacionais associados à alta complexidade logística.
 
-A análise por filtros temporais permite identificar sazonalidade, com períodos de pico de demanda que impactam diretamente a oferta, a ocupação e o desempenho operacional.
+- A análise por filtros temporais permite identificar sazonalidade, com períodos de pico de demanda que impactam diretamente a oferta, a ocupação e o desempenho operacional.
 
 ---
 
