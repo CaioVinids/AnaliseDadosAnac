@@ -18,31 +18,27 @@ O trabalho envolve tratamento e modelagem dos dados, criação de métricas em D
 
 ## ❓ Perguntas de Negócio Respondidas
 
-Como a demanda (RPK) evolui em relação à oferta (ASK)?
-
-Quais companhias apresentam maior potencial de receita?
-
-Quais aeroportos concentram maior geração de demanda?
-
-Existe relação entre volume de operações e atrasos superiores a 30 minutos?
-
-Como esses indicadores variam por período e empresa?
+- Como a demanda (RPK) evolui em relação à oferta (ASK)?
+- Quais companhias apresentam maior potencial de receita?
+- Quais aeroportos concentram maior geração de demanda?
+- Existe relação entre volume de operações e atrasos superiores a 30 minutos?
+- Como esses indicadores variam por período e empresa?
 
 ---
 
 ## 🔍 Principais Insights
 
-- A taxa média de ocupação de 83,85% indica um bom aproveitamento da capacidade ofertada, porém a análise temporal mostra que esse desempenho varia ao longo do tempo conforme o equilíbrio entre demanda (RPK) e oferta (ASK).
+- A taxa média de ocupação de 83,85% indica bom aproveitamento da capacidade ofertada, com variações ao longo do tempo conforme o equilíbrio entre demanda (RPK) e oferta (ASK).
 
-- A evolução histórica evidencia que o crescimento da demanda nem sempre acompanha a expansão da oferta, o que pode pressionar a taxa de ocupação em determinados períodos.
+- O crescimento da demanda nem sempre acompanha a expansão da oferta, o que pode pressionar a taxa de ocupação em determinados períodos.
 
-- O ranking de potencial de receita mostra alta concentração em poucas companhias aéreas, indicando que uma parcela reduzida do mercado é responsável pela maior parte da geração de receita.
+- O ranking de potencial de receita revela alta concentração em poucas companhias aéreas, indicando dependência do mercado em um grupo restrito de empresas.
 
-- Os aeroportos de Guarulhos, Rio de Janeiro e Brasília concentram os maiores volumes de demanda, reforçando seu papel estratégico na malha aérea brasileira.
+- Os aeroportos de Guarulhos, Rio de Janeiro e Brasília concentram os maiores volumes de demanda, reforçando sua importância estratégica.
 
-- Observa-se que empresas com maior volume de operações tendem a apresentar maior incidência de atrasos superiores a 30 minutos, sugerindo desafios operacionais associados à alta complexidade logística.
+- Companhias com maior volume de operações tendem a apresentar maior incidência de atrasos superiores a 30 minutos, sugerindo desafios operacionais.
 
-- A análise por filtros temporais permite identificar sazonalidade, com períodos de pico de demanda que impactam diretamente a oferta, a ocupação e o desempenho operacional.
+- A análise temporal evidencia sazonalidade, com períodos de pico que impactam demanda, oferta e desempenho operacional.
 
 ---
 
