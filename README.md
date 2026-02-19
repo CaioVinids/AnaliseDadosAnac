@@ -52,7 +52,7 @@ O trabalho envolve tratamento e modelagem dos dados, criação de métricas em D
 
 ## 📈 Principais Indicadores (KPIs)
 
-O dashboard apresenta os seguintes indicadores:
+Foram desenvolvidas medidas em DAX para cálculo dos principais indicadores, incluindo:
 
 - 💰 Receita Total Passageiro (RPK)
 - 💺 Assentos Totais Disponíveis (ASK)
@@ -74,18 +74,6 @@ O dashboard apresenta os seguintes indicadores:
   - Companhia aérea
   - Nacionalidade da empresa
   - Aeroporto de origem e destino
-
----
-
-## 🧮 Métricas Criadas em DAX
-
-Foram desenvolvidas medidas em DAX para cálculo dos principais indicadores, incluindo:
-
-- Receita Total Passageiro (RPK)
-- Assentos Totais Disponíveis (ASK)
-- Taxa de Ocupação
-- Total de Passageiros
-- Percentual de atrasos acima de 30 minutos
 
 ---
 
