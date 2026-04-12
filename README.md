@@ -44,9 +44,10 @@ O trabalho envolve tratamento e modelagem dos dados, criação de métricas em D
 
 ## 🛠️ Ferramentas Utilizadas
 
-- Power BI
-- DAX (Data Analysis Expressions)
-- Excel
+- Excel (Análise exploratória, tratamento de dados e apoio na modelagem)
+- Power BI (Visualização e criação de dashboards interativos)
+- Power Query (Tratamento, limpeza de dados, remoção de nulos e transformação de categorias)
+- DAX (Cálculo de medidas, inteligência de tempo e variações)
 
 ---
 
